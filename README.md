@@ -65,6 +65,8 @@ Depending on the requirements, specific features can be weighted more or less. F
 ## Predicting the most efficient action
 Using large-scale data analyses, we compute **numE**, a single number that represents the most efficient action. This takes into account the cost-effectiveness, the energy usage reduction, the local (geospatial) considerations, and much more. 
 
+## Mockups
 
+![Home Page](/assests/1-homepage.png)
 
 
