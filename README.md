@@ -79,3 +79,11 @@ Using large-scale data analyses, we compute **numE**, a single number that repre
 
 ![Activity Detail](https://github.com/tjweir/hackfromhome2021-wsid/raw/main/6-detail.png)
 
+## App Arch
+
+![Arch](https://github.com/tjweir/hackfromhome2021-wsid/raw/main/app%20arch.png)
+
+## User Journey
+
+![User Journey](https://github.com/tjweir/hackfromhome2021-wsid/raw/main/user%20journey.png)
+
