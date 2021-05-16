@@ -67,6 +67,15 @@ Using large-scale data analyses, we compute **numE**, a single number that repre
 
 ## Mockups
 
-![Home Page](/assests/1-homepage.png)
+![Home Page](https://github.com/tjweir/hackfromhome2021-wsid/raw/main/1-homepage.png)
 
+![Login](https://github.com/tjweir/hackfromhome2021-wsid/raw/main/2-login.png)
+
+![Password](https://github.com/tjweir/hackfromhome2021-wsid/raw/main/3-password.png)
+
+![HMI](https://github.com/tjweir/hackfromhome2021-wsid/raw/main/4-hmi.png)
+
+![Filter and Listing](https://github.com/tjweir/hackfromhome2021-wsid/raw/main/5-filter-and-list.png)
+
+![Activity Detail](https://github.com/tjweir/hackfromhome2021-wsid/raw/main/6-detail.png)
 
